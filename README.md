@@ -1,5 +1,5 @@
 # 👋 About Me:
-- 🎓 Estudiante de **Ingeniería de Software (6° semestre - Uniminuto)**.  
+- 🎓 Estudiante de **Ingeniería de Software (9° semestre - Uniminuto)**.  
 - 🎯 Formación técnica y tecnológica en el **SENA** en desarrollo de software.  
 - 🛠️ Experiencia con **Node.js, Express, MongoDB, .NET, SQL Server, PostgreSQL y PHP**.  
 - 💻 Conocimientos en **Flutter, React, Dart, Next.js, NestJS, TypeScript, Java y Python**.  
